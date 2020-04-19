@@ -9,6 +9,8 @@ public class Main {
       int num;
 
       recursion recu = new recursion();
+      DonPendejoFuncioná pendejo = new DonPendejoFuncioná(1,1,2.5);
+      System.out.println(pendejo.getCacaFunciona());
       System.out.print("Digite un numero: ");
       num = in.nextInt();
 
