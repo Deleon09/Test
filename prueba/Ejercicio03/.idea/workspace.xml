@@ -4,10 +4,6 @@
     <list default="true" id="7e8a4395-17ee-4f7d-8e6a-d980be637a88" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio03/com/AELQ/x00087919/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio03/com/AELQ/x00087919/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio03/com/AELQ/x00087919/recursion.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Ejercicio03/com/AELQ/x00087919/recursion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/AELQ/x00087919/DonPendejoFuncioná.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AELQ/x00087919/DonPendejoFuncioná.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/AELQ/x00087919/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/AELQ/x00087919/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,14 +71,16 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="25" key="#Project_Structure" timestamp="1587266813783">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="322" y="30" key="#Project_Structure" timestamp="1587267385591">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1587266813783" />
-    <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser" timestamp="1587266793420">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="322" y="30" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1587267385591" />
+    <state x="572" y="98" key="#com.intellij.ide.util.MemberChooser" timestamp="1587267543641">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="488" y="83" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1587266793420" />
+    <state x="572" y="98" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1587267543641" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587266987747">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
