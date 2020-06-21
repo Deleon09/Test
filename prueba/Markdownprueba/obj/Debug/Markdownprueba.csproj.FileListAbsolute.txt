@@ -6,3 +6,4 @@ C:\Users\DELL\Documents\GitHub\Test\prueba\Markdownprueba\obj\Debug\Markdownprue
 C:\Users\DELL\Documents\GitHub\Test\prueba\Markdownprueba\obj\Debug\Markdownprueba.csproj.GenerateResource.cache
 C:\Users\DELL\Documents\GitHub\Test\prueba\Markdownprueba\obj\Debug\Markdownprueba.exe
 C:\Users\DELL\Documents\GitHub\Test\prueba\Markdownprueba\obj\Debug\Markdownprueba.pdb
+C:\Users\DELL\Documents\GitHub\Test\prueba\Markdownprueba\obj\Debug\Markdownprueba.Form1.resources
