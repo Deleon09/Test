@@ -6,7 +6,7 @@
 4. Rene Guillermo Canales Climaco 00001318
 ___
 ## IDE
-JetBrains Rider
+JetBrains Rider 2019.3.4
 ___
 ## FAQ's
 - ¿Cómo iniciar el juego?   
