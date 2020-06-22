@@ -10,11 +10,11 @@ JetBrains Rider 2019.3.4
 ___
 ## FAQ's
 - ¿Cómo iniciar el juego?   
-Al entrar a la aplicación debe selecciónar la opcion **jugar**, luego se le pedira un username,
+Al entrar a la aplicación debe selecciónar la opción **jugar**, luego se le pedira un username,
 finalmente en la pantalla del juego se debe presionas Enter. 
 
 - ¿Cómo salir del juego?   
-En el menu principal se debe seleccionar la opcion **salir**.
+En el menu principal se debe seleccionar la opción **salir**.
 
 - ¿Qué pasa si encuentro un error?   
 Si en la aplicación ocurre algun tipo de error, se lanzara una excepción.
