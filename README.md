@@ -9,12 +9,11 @@ ___
 JetBrains Rider
 ___
 ## FAQ's
-- ¿Cómo iniciar el juego?
+- ¿Cómo iniciar el juego?   
 Al entrar a la aplicación debe selecciónar la opcion **jugar**, luego se le pedira un username,
 finalmente en la pantalla del juego se debe presionas Enter. 
 
 - ¿Cómo salir del juego?
-
 Se debe seleccionar la opcion **salir**.
 
 - ¿Qué pasa si encuentro un error?
