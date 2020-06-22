@@ -14,6 +14,7 @@ Al entrar a la aplicación debe selecciónar la opcion **jugar**, luego se le pe
 finalmente en la pantalla del juego se debe presionas Enter. 
 
 - ¿Cómo salir del juego?
+
 Se debe seleccionar la opcion **salir**.
 
 - ¿Qué pasa si encuentro un error?
